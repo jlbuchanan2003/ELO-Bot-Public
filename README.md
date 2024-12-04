@@ -46,8 +46,7 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
 
 ## Bot Setup
 
-***Option 1.*** **Add my bot to your server (Short and Easy)**
-``
+***Option 1.*** **Add my bot to your server (Short and Easy)**:                                                      
     - For my visual learner:
         *Video going through the setup process*
             https://youtu.be/LiY_u0w5rWA
