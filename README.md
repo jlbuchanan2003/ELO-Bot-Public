@@ -106,6 +106,10 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
 
 Feel free to submit issues or pull requests to improve the bot. All contributions are welcome!
 
+##Notices
+
+The code provided is **not** the same code running on the already active ELO Bot that I am hosting
+
 ## License
 
 No licenses
