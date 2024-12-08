@@ -17,12 +17,14 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
 ### Player Commands
 | Command              | Description                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------|
+| `$help`              | List all of the available commands      |
 | `$join`              | Join the ranking system with a custom name.                                                        |
 | `$challenge`         | Challenge a partner and two opponents for a 2v2 match.                                             |
-| `$results @<winner>` | Report a winner from the match and update ELO for all players.                                       |
+| `$results`           | Report the winner of a match and update ELO for all players.                                       |
 | `$leaderboard`       | View the current leaderboard.                                                                      |
 | `$cancel`            | Cancel the active match you are in                                                                 |
 | `$activity`          | Check your last active time and see how long until ELO decay starts (or if already decaying).      |
+| `$profile @<user>`    | Displays the user's Rank, Record, ELO, and date of last game played     |
 | `$report <description>` | Report a bug with description to the admin        |
 
 
@@ -40,7 +42,7 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
 ### Admin Commands
 | Command              | Description                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------|
-| `$broadcast <message>`  | Broadcast a message to all the servers the bot is a part of                                      |
+| `$broadcast <message>`  | Groadcast a message to all the servers the bot is a part of                                      |
 | `$servers`             | Show a list of servers the bot is a part of                                                       |
 | `$statistics`            | Show a list of statistics for each server the bot is in                                         |
 
@@ -52,7 +54,7 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
             https://youtu.be/LiY_u0w5rWA
 ```
     1. *Copy and Paste this link into your browser to add the bot to a server:*
-    https://discord.com/oauth2/authorize?client_id=1287923287816671293&permissions=275012332624&integration_type=0&scope=bot
+    https://discord.com/oauth2/authorize?client_id=1287923287816671293&permissions=1958505344065&integration_type=0&scope=bot
 
     2. *Give permissions to the bot in a specific channel*
 
