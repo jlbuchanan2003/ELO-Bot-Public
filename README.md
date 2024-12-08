@@ -42,7 +42,7 @@ A Discord bot for managing an ELO-based ranking system for 2v2 games. The bot al
 ### Admin Commands
 | Command              | Description                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------|
-| `$broadcast <message>`  | Groadcast a message to all the servers the bot is a part of                                      |
+| `$broadcast <message>`  | Broadcast a message to all the servers the bot is a part of                                      |
 | `$servers`             | Show a list of servers the bot is a part of                                                       |
 | `$statistics`            | Show a list of statistics for each server the bot is in                                         |
 
